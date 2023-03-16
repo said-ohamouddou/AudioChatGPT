@@ -41,6 +41,6 @@ Finally run:
 
 ## Future Features
 
--Interact with chatgpt through imgs/videos
+-Interact with chatgpt through imgs/videos <br/>
 -Use of a database to store old messages, so that we can see them in the next execution of the application.
 
