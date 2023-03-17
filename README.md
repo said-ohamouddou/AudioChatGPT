@@ -15,6 +15,7 @@ To run the application:
      pip install -r requirements.txt
 ```
 You have to get your api key from https://platform.openai.com/ and put it in line 40 of ```main.py ``` file.
+
 ![screen0](https://user-images.githubusercontent.com/61070703/225979226-e15c5a6d-6539-406c-9d21-be33eb31b21e.png)
 
 
