@@ -1,0 +1,11 @@
+gTTS==2.3.1
+langdetect==1.0.9
+mutagen==1.46.0
+openai==0.27.2
+pydub==0.25.1
+pygame==2.2.0
+PyQt6==6.4.2
+qt_material==2.12
+scipy==1.10.1
+sounddevice==0.4.6
+soundfile==0.12.1
