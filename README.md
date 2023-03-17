@@ -21,7 +21,7 @@ You have to get your api key from https://platform.openai.com/ and put it in lin
 Finally run:
 
 ```bash
-   python3 main.p
+   python3 main.py
 ```
 
 
