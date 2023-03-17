@@ -33,7 +33,7 @@ Finally run:
 -Interact with chatgpt through text messages <br/>
 -Graphical interface inspired by whatsapp/telegram <br/>
 
-#Screenshots
+##Screenshots
 
 
 
