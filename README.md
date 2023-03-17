@@ -1,8 +1,8 @@
 
 # AudioChatGPT
-Desktop application which allows to interact with openai ChatGPT API, either by text messages or by audios.
-
-Built With: Python 3.10, PyQT6, openai, pygame, langdetec, mutagen, pydub, qt_material, scipy, sounddevice and soundfile.
+Desktop application which allows to interact with openai ChatGPT API, either by text messages or by audios.<br>
+Built With: Python 3.10, PyQT6, openai, pygame, langdetec, mutagen, pydub, qt_material, scipy, sounddevice and soundfile.<br>
+Tested on ubuntu 22 using the three languages: english, french and arabic.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
