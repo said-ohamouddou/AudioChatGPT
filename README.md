@@ -14,7 +14,7 @@ To run the application:
      cd AudioChatGPT
      pip install -r requirements.txt
 ```
-You have to get your api key from https://platform.openai.com/ and put it in line 22 of ```main.py ``` file.
+You have to get your api key from https://platform.openai.com/ and put it in line 40 of ```main.py ``` file.
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
