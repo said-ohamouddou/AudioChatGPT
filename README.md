@@ -4,7 +4,7 @@ Desktop application which allows to interact with openai ChatGPT API, either by 
 
 Built With: Python 3.10, PyQT6, openai,pygame, langdetec,mutagen,pydub,qt_material, scipy, sounddevice and soundfile.
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Run AudioChatGPT
 
@@ -14,7 +14,7 @@ To run the application:
      cd AudioChatGPT
      pip install -r requirements.txt
 ```
-You have to get your api key from https://platform.openai.com/ and put it in in line 22 of ```main.py ``` file.
+You have to get your api key from https://platform.openai.com/ and put it in line 22 of ```main.py ``` file.
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
